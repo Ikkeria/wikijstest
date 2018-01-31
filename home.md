@@ -4,8 +4,8 @@
 # Header
 
 [[cloud|Cloud]]
-[Cloud] (/cloud)
-link:cloud [Cloud]
+[Cloud](/cloud)
+link:cloud[Cloud]
 
 [Internal Link Title](/path/to/page)
 [External Link Title](https://www.google.com/)
