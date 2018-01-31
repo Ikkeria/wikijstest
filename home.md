@@ -4,5 +4,5 @@
 # Header
 
 [[cloud|Cloud]]
-[Cloud] (cloud)
+[Cloud] (/cloud)
 link:cloud [Cloud]
