@@ -4,3 +4,5 @@
 # Header
 
 [[cloud|Cloud]]
+[Cloud] (cloud)
+link:cloud [Cloud]
